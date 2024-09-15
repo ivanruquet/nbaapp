@@ -1,0 +1,17 @@
+com\ruquet\nbaapp\DTO\TeamDTO.class
+com\ruquet\nbaapp\DTO\PlayerDTO.class
+com\ruquet\nbaapp\NbaappApplication.class
+com\ruquet\nbaapp\Model\Team.class
+com\ruquet\nbaapp\Service\IPlayerService.class
+com\ruquet\nbaapp\Repository\IPlayerRepository.class
+com\ruquet\nbaapp\Controller\PlayerController.class
+com\ruquet\nbaapp\Model\Player.class
+com\ruquet\nbaapp\Service\PlayerService.class
+com\ruquet\nbaapp\DTO\TeamDetailDTO.class
+com\ruquet\nbaapp\Service\ITeamDetailService.class
+com\ruquet\nbaapp\Controller\TeamController.class
+com\ruquet\nbaapp\Service\ITeamService.class
+com\ruquet\nbaapp\Service\TeamDetailService.class
+com\ruquet\nbaapp\Controller\TeamDetailController.class
+com\ruquet\nbaapp\Service\TeamService.class
+com\ruquet\nbaapp\Repository\ITeamRepository.class

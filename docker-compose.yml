@@ -1,0 +1,33 @@
+version: '3'
+
+services:
+  nbaapp:
+    build: nbaapp
+    mem_limit: 512m
+    ports:
+      - "8080:8080"
+    environment:
+      DB_URL: jdbc:mysql://nba_db:3306/nba?createDatabaseIfNotExist=true&serverTimezone=UTC
+      DB_USER_NAME: ivanr
+      DB_PASSWORD: ivanr
+    restart: always
+    depends_on:
+      nba_db:
+        condition: service_healthy
+
+  nba_db:
+    image: mysql:8.0
+    ports:
+      - "3307:3306"
+    volumes:
+      - ./nbaapp/init:/docker-entrypoint-initdb.d
+    environment:
+      MYSQL_ROOT_PASSWORD: 1234
+      MYSQL_USER: ivanr
+      MYSQL_PASSWORD: ivanr
+      MYSQL_DATABASE: nba
+    restart: always
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost"]
+      timeout: 10s
+      retries: 10

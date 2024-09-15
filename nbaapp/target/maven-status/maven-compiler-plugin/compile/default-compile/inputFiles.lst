@@ -1,0 +1,17 @@
+C:\Users\Ivan\Desktop\nbaapp\nbaapp\src\main\java\com\ruquet\nbaapp\Controller\PlayerController.java
+C:\Users\Ivan\Desktop\nbaapp\nbaapp\src\main\java\com\ruquet\nbaapp\Controller\TeamController.java
+C:\Users\Ivan\Desktop\nbaapp\nbaapp\src\main\java\com\ruquet\nbaapp\Controller\TeamDetailController.java
+C:\Users\Ivan\Desktop\nbaapp\nbaapp\src\main\java\com\ruquet\nbaapp\DTO\PlayerDTO.java
+C:\Users\Ivan\Desktop\nbaapp\nbaapp\src\main\java\com\ruquet\nbaapp\DTO\TeamDetailDTO.java
+C:\Users\Ivan\Desktop\nbaapp\nbaapp\src\main\java\com\ruquet\nbaapp\DTO\TeamDTO.java
+C:\Users\Ivan\Desktop\nbaapp\nbaapp\src\main\java\com\ruquet\nbaapp\Model\Player.java
+C:\Users\Ivan\Desktop\nbaapp\nbaapp\src\main\java\com\ruquet\nbaapp\Model\Team.java
+C:\Users\Ivan\Desktop\nbaapp\nbaapp\src\main\java\com\ruquet\nbaapp\NbaappApplication.java
+C:\Users\Ivan\Desktop\nbaapp\nbaapp\src\main\java\com\ruquet\nbaapp\Repository\IPlayerRepository.java
+C:\Users\Ivan\Desktop\nbaapp\nbaapp\src\main\java\com\ruquet\nbaapp\Repository\ITeamRepository.java
+C:\Users\Ivan\Desktop\nbaapp\nbaapp\src\main\java\com\ruquet\nbaapp\Service\IPlayerService.java
+C:\Users\Ivan\Desktop\nbaapp\nbaapp\src\main\java\com\ruquet\nbaapp\Service\ITeamDetailService.java
+C:\Users\Ivan\Desktop\nbaapp\nbaapp\src\main\java\com\ruquet\nbaapp\Service\ITeamService.java
+C:\Users\Ivan\Desktop\nbaapp\nbaapp\src\main\java\com\ruquet\nbaapp\Service\PlayerService.java
+C:\Users\Ivan\Desktop\nbaapp\nbaapp\src\main\java\com\ruquet\nbaapp\Service\TeamDetailService.java
+C:\Users\Ivan\Desktop\nbaapp\nbaapp\src\main\java\com\ruquet\nbaapp\Service\TeamService.java
