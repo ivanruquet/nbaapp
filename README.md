@@ -15,17 +15,17 @@ Maven
 
 Instalación
 Clona el repositorio:
-git clone https://github.com/tu_usuario/nba-app-deploy.git
-cd nba-app-deploy
+"git clone https://github.com/tu_usuario/nba-app-deploy.git"
+"cd nba-app-deploy"
 
 Construye el proyecto con Maven:
-mvn clean install
+"mvn clean install"
 Configura Docker:
 
 Asegúrate de tener Docker y Docker Compose instalados.
 
 Ejecuta el siguiente comando para iniciar los servicios:
-docker-compose up --build
+"docker-compose up --build"
 
 Esto iniciará tanto la aplicación como la base de datos MySQL. La base de datos se inicializará con los datos del script en init/init.sql.
 
