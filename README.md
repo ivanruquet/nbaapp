@@ -1,6 +1,4 @@
-NBA App Deploy
-Descripción
-NBA App Deploy es una aplicación diseñada para gestionar datos relacionados con la NBA, utilizando Java, Spring Boot y MySQL. Este proyecto proporciona una interfaz para realizar operaciones CRUD sobre los jugadores y equipos de la NBA.
+NBA App es una aplicación diseñada para gestionar datos relacionados con la NBA, utilizando Java, Spring Boot y MySQL. Este proyecto proporciona una interfaz para realizar operaciones CRUD sobre los jugadores y equipos de la NBA.
 
 Características
 Gestión de Jugadores: Agregar, actualizar y eliminar jugadores.
