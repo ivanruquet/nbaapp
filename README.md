@@ -37,7 +37,8 @@ Accede a la aplicación: http://localhost:8080
 Puedes interactuar con la API para gestionar jugadores y equipos de la NBA.
 Scripts Iniciales
 El script init/init.sql se usa para inicializar la base de datos con datos de ejemplo.
-Contribuciones
+
+
 Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 
 Haz un fork del repositorio.
