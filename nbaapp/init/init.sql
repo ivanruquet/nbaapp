@@ -1,4 +1,5 @@
--- Create the database nba
+DROP DATABASE IF EXISTS nba;
+-- Create the database nba-- Create the database nba
 CREATE DATABASE IF NOT EXISTS nba;
 
 -- Select the database nba
